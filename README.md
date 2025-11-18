@@ -1,4 +1,4 @@
-<!-- HEADER WITH ANIMATED CODING BACKGROUND -->
+<!-- ================= HEADER WITH AI CODING ANIMATION ================= -->
 <h1 align="center">
   👋 Hi, I'm Paarth Doshi
 </h1>
@@ -10,15 +10,15 @@
 </p>
 
 <p align="center">
+  <!-- Coding animation GIF for AI vibes -->
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="600"/>
 </p>
 
 ---
 
 ## 🛠️ Skills & Tools
-
 <p align="center">
-  <!-- Python, SQL, Power BI, etc. -->
+  <!-- Neon gradient badges for modern look -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=black"/>
@@ -30,22 +30,28 @@
 
 ## 💻 Projects
 
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px;">
 
 <!-- Project 1 Card -->
-<div style="display:inline-block;margin:10px;padding:15px;border-radius:15px;box-shadow:0px 0px 15px rgba(0,0,0,0.3);background:linear-gradient(135deg,#00d2ff,#3a7bd5);width:250px;">
-<h3 style="color:white;">House Price Prediction</h3>
-<p style="color:white;">Predict house prices using ML models.</p>
-<p style="color:white;"><b>Tech:</b> Python, Pandas, Scikit-learn</p>
-<a href="#" style="color:white;text-decoration:underline;">GitHub Link</a>
+<div style="width:250px; border-radius:15px; overflow:hidden; box-shadow: 0 0 15px rgba(0,0,0,0.3); background: linear-gradient(135deg,#00d2ff,#3a7bd5); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="House Price" style="width:100%; height:150px; object-fit:cover;"/>
+  <div style="padding:10px; color:white;">
+    <h3>House Price Prediction</h3>
+    <p>Predict house prices using ML models.</p>
+    <p><b>Tech:</b> Python, Pandas, Scikit-learn</p>
+    <a href="#" style="color:white; text-decoration:underline;">GitHub Link</a>
+  </div>
 </div>
 
 <!-- Project 2 Card -->
-<div style="display:inline-block;margin:10px;padding:15px;border-radius:15px;box-shadow:0px 0px 15px rgba(0,0,0,0.3);background:linear-gradient(135deg,#ffafbd,#ffc3a0);width:250px;">
-<h3 style="color:white;">Breast Cancer Analysis</h3>
-<p style="color:white;">EDA and prediction of cancer dataset.</p>
-<p style="color:white;"><b>Tech:</b> Python, ML, Jupyter</p>
-<a href="#" style="color:white;text-decoration:underline;">GitHub Link</a>
+<div style="width:250px; border-radius:15px; overflow:hidden; box-shadow: 0 0 15px rgba(0,0,0,0.3); background: linear-gradient(135deg,#ffafbd,#ffc3a0); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Breast Cancer" style="width:100%; height:150px; object-fit:cover;"/>
+  <div style="padding:10px; color:white;">
+    <h3>Breast Cancer Analysis</h3>
+    <p>EDA and prediction of cancer dataset.</p>
+    <p><b>Tech:</b> Python, ML, Jupyter</p>
+    <a href="#" style="color:white; text-decoration:underline;">GitHub Link</a>
+  </div>
 </div>
 
 </div>
@@ -62,9 +68,9 @@
 ## 📜 Certifications & Badges
 
 ### HackerRank Certificates
-<div align="center">
-<iframe src="https://www.hackerrank.com/certificates/iframe/d44e554dbb8c" height="200" width="300" style="border:none;"></iframe>
-<iframe src="https://www.hackerrank.com/certificates/iframe/4de4cac2055f" height="200" width="300" style="border:none;"></iframe>
+<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px;">
+  <iframe src="https://www.hackerrank.com/certificates/iframe/d44e554dbb8c" height="200" width="300" style="border:none;"></iframe>
+  <iframe src="https://www.hackerrank.com/certificates/iframe/4de4cac2055f" height="200" width="300" style="border:none;"></iframe>
 </div>
 
 ### LinkedIn
@@ -74,18 +80,16 @@
 </div>
 </div>
 
-### Other Certificates
-<div align="center">
-<div style="display:inline-block;margin:10px;padding:10px;border-radius:15px;box-shadow:0px 0px 15px rgba(0,0,0,0.3);background:#f5f5f5;width:200px;">
-<img src="https://img.shields.io/badge/Business_Analytics-Harvard-red?style=flat-square" alt="Business Analytics"/>
+### Other Certificates (Cards)
+<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px;">
+<div style="width:180px; border-radius:15px; box-shadow:0 0 15px rgba(0,0,0,0.3); padding:10px; background:#f5f5f5;">
+  <img src="https://img.shields.io/badge/Business_Analytics-Harvard-red?style=flat-square" alt="Business Analytics"/>
 </div>
-
-<div style="display:inline-block;margin:10px;padding:10px;border-radius:15px;box-shadow:0px 0px 15px rgba(0,0,0,0.3);background:#f5f5f5;width:200px;">
-<img src="https://img.shields.io/badge/Data_Scientist-ETLHive-blue?style=flat-square" alt="Data Scientist"/>
+<div style="width:180px; border-radius:15px; box-shadow:0 0 15px rgba(0,0,0,0.3); padding:10px; background:#f5f5f5;">
+  <img src="https://img.shields.io/badge/Data_Scientist-ETLHive-blue?style=flat-square" alt="Data Scientist"/>
 </div>
-
-<div style="display:inline-block;margin:10px;padding:10px;border-radius:15px;box-shadow:0px 0px 15px rgba(0,0,0,0.3);background:#f5f5f5;width:200px;">
-<img src="https://img.shields.io/badge/PowerBI-ETLHive-yellow?style=flat-square" alt="Power BI"/>
+<div style="width:180px; border-radius:15px; box-shadow:0 0 15px rgba(0,0,0,0.3); padding:10px; background:#f5f5f5;">
+  <img src="https://img.shields.io/badge/PowerBI-ETLHive-yellow?style=flat-square" alt="Power BI"/>
 </div>
 </div>
 
