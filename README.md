@@ -1,16 +1,11 @@
 <!-- ================= HEADER WITH AI CODING ANIMATION ================= -->
-<h1 align="center">
-  👋 Hi, I'm Paarth Doshi
-</h1>
-<h3 align="center">
-  Data Analyst | Data Scientist | Python Developer | SQL & Power BI Expert
-</h3>
+<h1 align="center">👋 Hi, I'm Paarth Doshi</h1>
+<h3 align="center">Data Analyst | Data Scientist | Python Developer | SQL & Power BI Expert</h3>
 <p align="center">
   "Transforming raw data into actionable insights and building scalable solutions."
 </p>
 
 <p align="center">
-  <!-- Coding animation GIF for AI vibes -->
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="600"/>
 </p>
 
@@ -18,7 +13,6 @@
 
 ## 🛠️ Skills & Tools
 <p align="center">
-  <!-- Neon gradient badges for modern look -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=black"/>
@@ -33,7 +27,7 @@
 <div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px;">
 
 <!-- Project 1 Card -->
-<div style="width:250px; border-radius:15px; overflow:hidden; box-shadow: 0 0 15px rgba(0,0,0,0.3); background: linear-gradient(135deg,#00d2ff,#3a7bd5); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+<div style="width:250px; border-radius:15px; overflow:hidden; box-shadow: 0 0 15px rgba(0,0,0,0.3); background: linear-gradient(135deg,#00d2ff,#3a7bd5); transition: transform 0.3s;">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="House Price" style="width:100%; height:150px; object-fit:cover;"/>
   <div style="padding:10px; color:white;">
     <h3>House Price Prediction</h3>
@@ -44,7 +38,7 @@
 </div>
 
 <!-- Project 2 Card -->
-<div style="width:250px; border-radius:15px; overflow:hidden; box-shadow: 0 0 15px rgba(0,0,0,0.3); background: linear-gradient(135deg,#ffafbd,#ffc3a0); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+<div style="width:250px; border-radius:15px; overflow:hidden; box-shadow: 0 0 15px rgba(0,0,0,0.3); background: linear-gradient(135deg,#ffafbd,#ffc3a0); transition: transform 0.3s;">
   <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Breast Cancer" style="width:100%; height:150px; object-fit:cover;"/>
   <div style="padding:10px; color:white;">
     <h3>Breast Cancer Analysis</h3>
