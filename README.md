@@ -62,10 +62,9 @@
 ## 📜 Certifications & Badges
 
 ### HackerRank Certificates
-<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px;">
-  <iframe src="https://www.hackerrank.com/certificates/iframe/d44e554dbb8c" height="200" width="300" style="border:none;"></iframe>
-  <iframe src="https://www.hackerrank.com/certificates/iframe/4de4cac2055f" height="200" width="300" style="border:none;"></iframe>
-</div>
+[![Problem Solving Certificate](https://img.shields.io/badge/Problem_Solving-HackerRank-blue)](https://www.hackerrank.com/certificates/d44e554dbb8c)
+[![Python Certificate](https://img.shields.io/badge/Python-HackerRank-green)](https://www.hackerrank.com/certificates/4de4cac2055f)
+
 
 ### LinkedIn
 <div align="center">
