@@ -1,105 +1,131 @@
-<!-- ================= HEADER WITH AI CODING ANIMATION ================= -->
-<h1 align="center">👋 Hi, I'm Paarth Doshi</h1>
-<h3 align="center">Data Analyst | Data Scientist | Python Developer | SQL & Power BI Expert</h3>
-<p align="center">
-  "Transforming raw data into actionable insights and building scalable solutions."
-</p>
+<!-- ====================================================== -->
+<!--              💫  P A A R T H   D O S H I              -->
+<!-- ====================================================== -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="600"/>
-</p>
-
----
-
-## 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=microsoft-power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
----
-
-## 💻 Projects
-
-<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px;">
-
-<!-- Project 1 Card -->
-<div style="width:250px; border-radius:15px; overflow:hidden; box-shadow: 0 0 15px rgba(0,0,0,0.3); background: linear-gradient(135deg,#00d2ff,#3a7bd5); transition: transform 0.3s;">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="House Price" style="width:100%; height:150px; object-fit:cover;"/>
-  <div style="padding:10px; color:white;">
-    <h3>House Price Prediction</h3>
-    <p>Predict house prices using ML models.</p>
-    <p><b>Tech:</b> Python, Pandas, Scikit-learn</p>
-    <a href="#" style="color:white; text-decoration:underline;">GitHub Link</a>
-  </div>
-</div>
-
-<!-- Project 2 Card -->
-<div style="width:250px; border-radius:15px; overflow:hidden; box-shadow: 0 0 15px rgba(0,0,0,0.3); background: linear-gradient(135deg,#ffafbd,#ffc3a0); transition: transform 0.3s;">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Breast Cancer" style="width:100%; height:150px; object-fit:cover;"/>
-  <div style="padding:10px; color:white;">
-    <h3>Breast Cancer Analysis</h3>
-    <p>EDA and prediction of cancer dataset.</p>
-    <p><b>Tech:</b> Python, ML, Jupyter</p>
-    <a href="#" style="color:white; text-decoration:underline;">GitHub Link</a>
-  </div>
-</div>
-
-</div>
-
----
-
-## 🎓 Education
-- **B.Tech in CS & Business Systems** – D.Y. Patil University | CGPA: 8.4/10  
-- **HSC PCM + CS** – CKT Jr Science College, Panvel | 85.83%  
-- **ICSE Computer Applications** – VPM IAM International School | 81%  
-
----
-
-## 📜 Certifications & Badges
-
-### HackerRank Certificates
-[![Problem Solving Certificate](https://img.shields.io/badge/Problem_Solving-HackerRank-blue)](https://www.hackerrank.com/certificates/d44e554dbb8c)
-[![Python Certificate](https://img.shields.io/badge/Python-HackerRank-green)](https://www.hackerrank.com/certificates/4de4cac2055f)
-
-
-### LinkedIn
 <div align="center">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="paarth-doshi" data-version="v1">
-<a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/paarth-doshi?trk=profile-badge">Paarth Doshi</a>
-</div>
-</div>
 
-### Other Certificates (Cards)
-<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px;">
-<div style="width:180px; border-radius:15px; box-shadow:0 0 15px rgba(0,0,0,0.3); padding:10px; background:#f5f5f5;">
-  <img src="https://img.shields.io/badge/Business_Analytics-Harvard-red?style=flat-square" alt="Business Analytics"/>
-</div>
-<div style="width:180px; border-radius:15px; box-shadow:0 0 15px rgba(0,0,0,0.3); padding:10px; background:#f5f5f5;">
-  <img src="https://img.shields.io/badge/Data_Scientist-ETLHive-blue?style=flat-square" alt="Data Scientist"/>
-</div>
-<div style="width:180px; border-radius:15px; box-shadow:0 0 15px rgba(0,0,0,0.3); padding:10px; background:#f5f5f5;">
-  <img src="https://img.shields.io/badge/PowerBI-ETLHive-yellow?style=flat-square" alt="Power BI"/>
-</div>
-</div>
+# 👋 Hi, I'm **Paarth Doshi**  
+### *Data Scientist | QA Engineer | Python | SQL | Java | Selenium*
+
+💡 *"If data can update every day, why shouldn’t I? Growth is my default mode."*
 
 ---
 
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/paarth-doshi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/PaartHD03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://paarthdoshi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-</p>
+<!-- ========== STYLE 1 — MINIMAL + CLEAN ========== -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=PaartHD03)
+![Followers](https://img.shields.io/github/followers/PaartHD03?style=social)
+![Stars](https://img.shields.io/github/stars/PaartHD03?style=social)
 
 ---
 
-## 🌟 Fun Stats & Visitor Badge
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PaarthDoshi" alt="Visitor Badge"/>
-  <br>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Stats Animation" width="300"/>
-</p>
+<!-- ========== STYLE 2 — NEON HACKER THEME ========== -->
+
+```diff
++ 💻 Always learning. Always building. Always optimizing.
+@@ ⚡ Code. Automate. Analyze. Repeat. @@
+</div> <!-- ========== STYLE 3 — RESUME / ONE-PAGE STYLE ========== -->
+🧑‍🎓 Education
+B.Tech – Computer Science & Business Systems (CSBS)
+Ramrao Adik Institute of Technology, DY Patil University
+CGPA: 8.2 / 10
+
+💼 Experience
+Data Scientist Intern – ETLHive (Python, SQL, ML)
+
+Data Analyst Intern – IDBI Bank (NLP, Analytics)
+
+Automation Tester – GenC – Cognizant (Java, Selenium, TestNG)
+
+<!-- ========== STYLE 4 — DASHBOARD ANALYTICS STYLE ========== -->
+📊 Performance Dashboard
+Metric	Value
+🔥 Total Projects	18+
+📚 Certifications	10+
+🛠 Tech Stacks	12+
+⭐ GitHub Stars	Dynamic
+🤖 ML/DS Models Built	6+
+📈 Dashboards (BI/SQL)	8+
+
+<!-- ========== STYLE 5 — ANIMATED TEXT ========== --> <div align="center">
+⌨️ Typing Animation
+
+</div>
+<!-- ========== STYLE 8 — BADGE STACK ========== -->
+🧰 Tech Stack & Tools
+Languages
+
+
+
+
+
+Data & Analytics
+
+
+
+
+Automation / QA
+
+
+
+
+
+Cloud / VCS
+
+
+<!-- ========== STYLE 6 — TAB STYLE NAVIGATION ========== -->
+📁 Portfolio Navigator
+<details> <summary><strong>📌 About Me</strong></summary> <br> I am a Data Scientist & QA Engineer with experience in Python, SQL, Machine Learning, Selenium Automation, and full-stack analytics. I enjoy solving real problems using clean code, models, and dashboards. </details> <details> <summary><strong>🚀 Projects</strong></summary> <br>
+🔹 House Price Prediction (India)
+ML regression model built using Python, Pandas, Scikit-learn.
+
+🔹 Breast Cancer Analysis
+EDA + ML classification + feature analysis.
+
+🔹 College Admission Form Automation
+Java + Selenium + TestNG + XML Data Driven Framework.
+
+🔹 Face Mask Detection
+CNN image classifier using OpenCV + Keras.
+
+</details> <details> <summary><strong>📜 Certifications</strong></summary> <br>
+Python – HackerRank
+
+SQL – HackerRank
+
+Tableau – ETLHive
+
+Power BI – ETLHive
+
+Java – University
+
+Selenium + TestNG – Cognizant
+
+Data Science – ETLHive
+
+</details> <details> <summary><strong>📞 Contact</strong></summary> <br>
+📧 paarthdoshi777@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/
+💻 GitHub: https://github.com/PaartHD03
+🧩 HackerRank: https://www.hackerrank.com/profile/paarth_doshi3
+
+</details>
+<!-- ========== STYLE 7 — GRID PROJECT GALLERY ========== -->
+🖼 Project Gallery (Grid Style)
+Project	Description	Link
+🏡 House Price Prediction	ML regression model	🔗 GitHub
+🏥 Breast Cancer Analysis	EDA + ML Classification	🔗 GitHub
+🏫 Admission Automation	Java + Selenium + TestNG	🔗 GitHub
+😷 Face Mask Detection	CNN image classification	🔗 GitHub
+📊 E-commerce Insights	SQL + Power BI	🔗 GitHub
+🧮 Loan Prediction	Python + ML	🔗 GitHub
+
+<!-- ========== GITHUB STATS (BONUS STYLE) ========== -->
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PaartHD03&show_icons=true&theme=react" height="160"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaartHD03&layout=compact&theme=react" height="160"> </div>
+🧨 Fun Fact
+I break things just to automate fixing them 😎
+
+<div align="center">
+⭐ If you like my work, consider giving a star!
+</div> ```
