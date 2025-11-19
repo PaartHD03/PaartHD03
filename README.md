@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://paarthdoshiportfolio.netlify.app/">
-    <img src="https://drive.google.com/file/d/1gwXyC1NucyQUbFmF5XR1wtz0lubgdjTf/view?usp=sharing" 
+    <img src="https://github.com/PaartHD03/PaartHD03/blob/main/website.jpg" 
          width="220" 
          style="border-radius:12px; box-shadow:0 6px 20px rgba(255,107,97,0.12);" />
   </a>
