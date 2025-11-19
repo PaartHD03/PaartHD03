@@ -2,7 +2,7 @@
 <!--              👤 P A A R T H   D O S H I               -->
 <!-- ====================================================== -->
 
-<div align="center">
+<div align="Left">
 
 <img src="https://paarthdoshiportfolio.netlify.app/images/profile.jpg" alt="Paarth Doshi" width="120" style="border-radius: 50%; border: 4px solid #ff4d4d;" />
 
