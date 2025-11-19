@@ -48,7 +48,14 @@
 
 **Snapshot**
 <div>
-  <img align="right" src="https://paarthdoshiportfolio.netlify.app/images/profile.jpg" alt="profile" style="border-radius:12px; box-shadow:0 6px 20px rgba(255,107,97,0.12)"/>
+  <img 
+  align="right"
+  src="https://paarthdoshiportfolio.netlify.app/images/profile.jpg"
+  alt="profile"
+  width="160"
+  style="border-radius:50%; box-shadow:0 6px 20px rgba(255,107,97,0.12);" 
+/>
+
   <p><strong>Projects:</strong> +10</p>
   <p><strong>Internships:</strong> 3</p>
   <p><strong>Certifications:</strong> 5+</p>
