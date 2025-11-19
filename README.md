@@ -1,90 +1,118 @@
-<h1 align="center">👋 Hi, I'm Paarth Doshi</h1>
-<p align="center"><em>If data can update every day, why shouldn’t I? Growth is my default mode.</em></p>
+<h1 align="center">👋 Hi, I'm <b>Paarth Doshi</b></h1>
+<p align="center"><i>If data can update every day, why shouldn’t I? Growth is my default mode.</i></p>
 
 ---
 
-# 1️⃣ ABOUT ME
-Short intro: Aspiring Data Analyst / Full-Stack builder / etc.
+# 1️⃣ ABOUT ME  
+Aspiring Data Analyst & Developer passionate about solving problems through data, automation, and thoughtful design.
 
 ---
 
-# 2️⃣ PORTFOLIO
-🔗 Live portfolio: [Your Netlify link here](https://your-portfolio.netlify.app)
+# 2️⃣ PORTFOLIO  
+🔗 **Live Portfolio:** https://your-portfolio.netlify.app
 
 ---
 
-# 3️⃣ SOCIAL BADGES
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-handle)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-handle)
-
-**GitHub stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
----
-
-# 4️⃣ FEATURED PROJECTS
-### Project A — *Short one-line description*  
-Tech: React, Node, SQL  
-🔗 [Live Demo](your-live-link) • [Source](https://github.com/yourusername/project-a)
-
-### Project B — *Short one-line description*  
-Tech: Python, PowerBI  
-🔗 [Source](https://github.com/yourusername/project-b)
-
----
-
-# 5️⃣ SKILLS
-**Languages:** Python • SQL • JavaScript  
-**Data & BI:** Power BI • Tableau • Snowflake  
-**Dev:** React • Node • Django • Git
-
-(Use devicon icons if you want images; example below.)
-
----
-
-# 6️⃣ WORK EXPERIENCE (Timeline)
-- **2025** — Intern @ NeuIQ — Built dashboards & internal tools.  
-- **2024** — Data Scientist Intern @ ETLHive — Healthcare & loan analytics projects.  
-- **2023** — Projects & competitions — Web apps, ML models, etc.
-
----
-
-# 7️⃣ EDUCATION
-**B.Tech in CS (Business Systems)** — Ramrao Adik Institute of Technology (2021–2025)  
-CGPA: 8.4/10
-
----
-
-# 8️⃣ ACHIEVEMENTS & CERTIFICATES
-Below are thumbnails that link to the original Google Drive certificates.
-
+# 3️⃣ SOCIALS  
 <p align="left">
-  <!-- Example: Certificate as clickable thumbnail -->
-  <a href="https://drive.google.com/file/d/1Y_-EoNqk8gJUU1EIJtZ-qeAq7v_ZehIV/view?usp=sharing" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=1Y_-EoNqk8gJUU1EIJtZ-qeAq7v_ZehIV" width="160" alt="SQL Basic Certificate" style="margin-right:8px"/>
+  <a href="https://www.linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="https://drive.google.com/file/d/11Hj2ikMHtrPRaTVPdbVZ5pB5Ag8tLSRR/view?usp=sharing" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=11Hj2ikMHtrPRaTVPdbVZ5pB5Ag8tLSRR" width="160" alt="Python Certificate" style="margin-right:8px"/>
+  <a href="https://www.hackerrank.com/your-handle">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-
-  <!-- If a certificate is PDF and you don't have a thumbnail, link directly -->
-  <a href="https://drive.google.com/file/d/1Umv1NJ1d29C5rXzuBhMW4KM58fjTmam6/view?usp=sharing" target="_blank">
-    📄 ETLHive Internship Certificate
+  <a href="https://leetcode.com/your-handle">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/your-instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
-> Tip: replace each `id=` value above with the correct FILE_ID from your Drive links.
+---
+
+# 4️⃣ GITHUB STATS  
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" height="180"/>
 
 ---
 
-# 9️⃣ FUN FACTS
+# 5️⃣ FEATURED PROJECTS
+
+### 🔹 Project 1 – *Short Description*  
+Tech: React, Node, SQL  
+🔗 [Live](#) • [Source](https://github.com/yourusername/project1)
+
+### 🔹 Project 2 – *Short Description*  
+Tech: Python, PowerBI  
+🔗 [Source](https://github.com/yourusername/project2)
+
+---
+
+# 6️⃣ SKILLS  
+
+### **Languages**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+
+### **Data / BI**
+Power BI • Tableau • Snowflake
+
+### **Development**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+
+---
+
+# 7️⃣ EXPERIENCE (TIMELINE)
+
+- **2025 — Intern @ NeuIQ**  
+  Worked on dashboards, internal tools, and product modules.  
+
+- **2024 — Data Science Intern @ ETLHive**  
+  Healthcare analytics + loan prediction analysis.  
+
+- **2023 — Projects & Learning**  
+  ML, automation, web development.
+
+---
+
+# 8️⃣ EDUCATION  
+🎓 **B.Tech CSE (Business Systems), RAIT (2021–2025)**  
+CGPA: 8.4/10  
+
+---
+
+# 9️⃣ CERTIFICATIONS  
+*(Google Drive thumbnails — replace FILE_ID with actual IDs)*
+
+<p align="left">
+
+  <a href="https://drive.google.com/file/d/FILE_ID/view?usp=sharing" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=FILE_ID" 
+         width="160" alt="Certificate 1" style="margin-right:10px"/>
+  </a>
+
+  <a href="https://drive.google.com/file/d/FILE_ID/view?usp=sharing" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=FILE_ID" 
+         width="160" alt="Certificate 2" style="margin-right:10px"/>
+  </a>
+
+  <a href="https://drive.google.com/file/d/FILE_ID/view?usp=sharing" target="_blank">
+    📄 ETLHive Internship Certificate
+  </a>
+
+</p>
+
+---
+
+# 🔟 FUN FACTS  
 - Growth is my default mode 🚀  
-- I enjoy building end-to-end data products
+- I love building things from scratch  
+- Always exploring new tech
 
 ---
 
-# 🔟 VISITOR COUNT
+# 🔢 VISITOR COUNT  
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername)
