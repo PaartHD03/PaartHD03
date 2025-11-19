@@ -300,18 +300,3 @@ Best,
 
 ---
 
-## Notes & next steps
-
-- If you want, I can:
-  - Replace the placeholder banner images with **real PNG/SVG banners** (higher-res, custom neon text) and upload them to the repo for pixel-perfect fidelity.
-  - Generate alternate mobile-optimized banners.
-  - Export this README into a `index.html` single-page that will be pixel-perfect (but note: GitHub README is static).
-- Want me to **replace banners with custom PNGs** I generate and commit-ready ZIP that you can upload? Say **“Replace banners”** and I’ll produce them (and the updated README with file paths).
-
----
-
-If everything looks good, say **“finalize”** and I’ll give you:
-- A zipped README + optional banners packaging plan  
-- Or directly paste-ready content (already above) — you can now paste into your repo.
-
-Would you like me to **generate real PNG banner images** (commit-ready) next?
