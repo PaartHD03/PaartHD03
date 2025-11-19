@@ -48,7 +48,7 @@
 
 **Snapshot**
 <div>
-  <img align="right" src="https://media.licdn.com/dms/image/" alt="profile" style="border-radius:12px; box-shadow:0 6px 20px rgba(255,107,97,0.12)"/>
+  <img align="right" src="https://paarthdoshiportfolio.netlify.app/images/profile.jpg" alt="profile" style="border-radius:12px; box-shadow:0 6px 20px rgba(255,107,97,0.12)"/>
   <p><strong>Projects:</strong> +10</p>
   <p><strong>Internships:</strong> 3</p>
   <p><strong>Certifications:</strong> 5+</p>
@@ -238,11 +238,11 @@ A selection of my certificates — click to open:
 
 <p>
   <a href="https://drive.google.com/file/d/11Hj2ikMHtrPRaTVPdbVZ5pB5Ag8tLSRR/view" target="_blank">
-    <img src="https://via.placeholder.com/320x200/0f1724/e6eef8?text=Business+Analytics" alt="Business Analytics" style="border-radius:8px;margin-right:8px;"/>
+    <img src="https://paarthdoshiportfolio.netlify.app/images/eDiploma.jpg" alt="Business Analytics" style="border-radius:8px;margin-right:8px;"/>
   </a>
 
-  <a href="https://drive.google.com/file/d/1Y_-EoNqk8gJUU1EIJtZ-qeAq7v_ZehIV/view?usp=sharing" target="_blank">
-    <img src="https://via.placeholder.com/320x200/0f1724/e6eef8?text=Resume+PDF" alt="Resume" style="border-radius:8px;"/>
+  <a href="https://paarthdoshiportfolio.netlify.app/file/resume.pdf" target="_blank">
+    <img src="https://paarthdoshiportfolio.netlify.app/file/resume.pdf" alt="Resume" style="border-radius:8px;"/>
   </a>
 </p>
 
