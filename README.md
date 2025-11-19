@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x220/071025/ff6b61?text=Paarthfolio.+—+Paarth+Doshi" alt="Paarthfolio Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHsoibFPrjw8Q/profile-displaybackgroundimage-shrink_350_1400/B4DZogMWeGH0AY-/0/1761476701059?e=1765411200&v=beta&t=HNP0ZdmynYy4jsN4bNPCPOaYQI0z_TW_-LJGCYYiLdQ" alt="Paarthfolio Banner" width="100%" />
 </p>
 
 <h1 align="center">PAARTH DOSHI</h1>
