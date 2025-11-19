@@ -1,118 +1,118 @@
-<h1 align="center">👋 Hi, I'm <b>Paarth Doshi</b></h1>
+<h1 align="center"><b>PAARTH DOSHI</b></h1>
 <p align="center"><i>If data can update every day, why shouldn’t I? Growth is my default mode.</i></p>
 
 ---
 
 # 1️⃣ ABOUT ME  
-Aspiring Data Analyst & Developer passionate about solving problems through data, automation, and thoughtful design.
+Aspiring Data Analyst with strong foundations in Python, SQL, BI tools, and end-to-end problem solving.
 
 ---
 
-# 2️⃣ PORTFOLIO  
-🔗 **Live Portfolio:** https://your-portfolio.netlify.app
-
----
-
-# 3️⃣ SOCIALS  
+# 2️⃣ SOCIALS  
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/your-handle">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/your-handle">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/your-instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="YOUR_HACKERRANK"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white"/></a>
+  <a href="YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-ffa116?style=flat&logo=leetcode&logoColor=white"/></a>
+  <a href="YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/YOUR_GITHUB"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-# 4️⃣ GITHUB STATS  
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact" height="180"/>
+# 3️⃣ PORTFOLIO  
+🔗 **Live:** YOUR_NETLIFY_LINK
 
 ---
 
-# 5️⃣ FEATURED PROJECTS
+# 4️⃣ TECH STACK  
+### **Languages**  
+Python • SQL • JavaScript  
 
-### 🔹 Project 1 – *Short Description*  
-Tech: React, Node, SQL  
-🔗 [Live](#) • [Source](https://github.com/yourusername/project1)
+### **Data / BI Tools**  
+Power BI • Tableau • Snowflake  
 
-### 🔹 Project 2 – *Short Description*  
-Tech: Python, PowerBI  
-🔗 [Source](https://github.com/yourusername/project2)
+### **Development Tech**  
+React • Node.js • Django • Git  
 
----
-
-# 6️⃣ SKILLS  
-
-### **Languages**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-
-### **Data / BI**
-Power BI • Tableau • Snowflake
-
-### **Development**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+### **Icons (Screenshot Style Visual Row)**  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
 
 ---
 
-# 7️⃣ EXPERIENCE (TIMELINE)
+# 5️⃣ EXPERIENCE (TIMELINE STYLE)
 
-- **2025 — Intern @ NeuIQ**  
-  Worked on dashboards, internal tools, and product modules.  
+**2025 — Intern @ NeuIQ**  
+• Dashboards • Internal tools • Product contributions  
 
-- **2024 — Data Science Intern @ ETLHive**  
-  Healthcare analytics + loan prediction analysis.  
+**2024 — Data Science Intern @ ETLHive**  
+• Healthcare analytics • Loan risk modelling • Python & BI  
 
-- **2023 — Projects & Learning**  
-  ML, automation, web development.
-
----
-
-# 8️⃣ EDUCATION  
-🎓 **B.Tech CSE (Business Systems), RAIT (2021–2025)**  
-CGPA: 8.4/10  
+**2023 — Projects & Academic Work**  
+• ML models • Web Dev • Automations
 
 ---
 
-# 9️⃣ CERTIFICATIONS  
-*(Google Drive thumbnails — replace FILE_ID with actual IDs)*
+# 6️⃣ EDUCATION  
+🎓 **B.Tech CSE (Business Systems)** — RAIT (2021–2025)  
+CGPA: 8.4/10
+
+---
+
+# 7️⃣ CERTIFICATIONS (Screenshot-Style Gallery)  
+*(Replace FILE_ID with your Drive file IDs)*  
 
 <p align="left">
 
-  <a href="https://drive.google.com/file/d/FILE_ID/view?usp=sharing" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=FILE_ID" 
-         width="160" alt="Certificate 1" style="margin-right:10px"/>
+  <a href="https://drive.google.com/file/d/FILE_ID/view" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=FILE_ID" width="160" style="margin-right:10px"/>
   </a>
 
-  <a href="https://drive.google.com/file/d/FILE_ID/view?usp=sharing" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=FILE_ID" 
-         width="160" alt="Certificate 2" style="margin-right:10px"/>
+  <a href="https://drive.google.com/file/d/FILE_ID/view" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=FILE_ID" width="160" style="margin-right:10px"/>
   </a>
 
-  <a href="https://drive.google.com/file/d/FILE_ID/view?usp=sharing" target="_blank">
-    📄 ETLHive Internship Certificate
+  <a href="https://drive.google.com/file/d/FILE_ID/view" target="_blank">
+    📄 ETLHive Internship Certificate  
   </a>
 
+</p>
+
+---
+
+# 8️⃣ PROJECTS (Screenshot-Style Minimal Cards)
+
+### 🔹 **Project Name**  
+Short description  
+**Tech:** React • Node • SQL  
+🔗 [Live](#) | [Code](#)
+
+### 🔹 **Project Name**  
+Short description  
+**Tech:** Python • Power BI  
+🔗 [Code](#)
+
+---
+
+# 9️⃣ GITHUB STATS  
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="180"/>
 </p>
 
 ---
 
 # 🔟 FUN FACTS  
 - Growth is my default mode 🚀  
-- I love building things from scratch  
-- Always exploring new tech
+- Love building things from scratch  
+- Always exploring new tech  
 
 ---
 
 # 🔢 VISITOR COUNT  
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername)
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
