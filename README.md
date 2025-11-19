@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1gwXyC1NucyQUbFmF5XR1wtz0lubgdjTf/view?usp=sharing" 
+  <img src="https://github.com/PaartHD03/PaartHD03/blob/main/website.jpg" 
        alt="Paarthfolio Banner"
        width="100%" />
 </p>
