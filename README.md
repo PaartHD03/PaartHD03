@@ -3,7 +3,14 @@
        alt="Paarthfolio Banner"
        width="100%" />
 </p>
+<p align="center">
+  <a href="https://paarthdoshiportfolio.netlify.app/">
+  </a>
+</p>
 
+<p align="center">
+  <b>Visit My Portfolio:</b> https://paarthdoshiportfolio.netlify.app/
+</p>
 <h1 align="center">PAARTH DOSHI</h1>
 <p align="center"><i>If data can update every day, why shouldn’t I? Growth is my default mode.</i></p>
 
@@ -27,14 +34,4 @@
 
 ---
 
-<p align="center">
-  <a href="https://paarthdoshiportfolio.netlify.app/">
-    <img src="https://github.com/PaartHD03/PaartHD03/blob/main/website.jpg" 
-         width="220" 
-         style="border-radius:12px; box-shadow:0 6px 20px rgba(255,107,97,0.12);" />
-  </a>
-</p>
 
-<p align="center">
-  <b>Visit My Portfolio:</b> https://paarthdoshiportfolio.netlify.app/
-</p>
