@@ -64,7 +64,7 @@
 
 **Quick links**
 - [View Projects (scroll down)](#projects)  
-- [Resume (PDF)](https://drive.google.com/file/d/1Y_-EoNqk8gJUU1EIJtZ-qeAq7v_ZehIV/view?usp=sharing)  
+- [Resume (PDF)](https://paarthdoshiportfolio.netlify.app/file/resume.pdf)  
 - [ETLHive Internship Cert](https://drive.google.com/file/d/11Hj2ikMHtrPRaTVPdbVZ5pB5Ag8tLSRR/view)
 
 </div>
