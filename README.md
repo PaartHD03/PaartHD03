@@ -48,7 +48,7 @@
 
 **Snapshot**
 <div>
-  <img align="right" src="https://media.licdn.com/dms/image/v2/D4D03AQH5idpO8XApcw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1695744107558?e=1765411200&v=beta&t=IbizNOHxqRThtwSAmyT2az9j_VsLdjSwXmb9mq2cXJk" alt="profile" style="border-radius:12px; box-shadow:0 6px 20px rgba(255,107,97,0.12)"/>
+  <img align="right" src="https://media.licdn.com/dms/image/" alt="profile" style="border-radius:12px; box-shadow:0 6px 20px rgba(255,107,97,0.12)"/>
   <p><strong>Projects:</strong> +10</p>
   <p><strong>Internships:</strong> 3</p>
   <p><strong>Certifications:</strong> 5+</p>
