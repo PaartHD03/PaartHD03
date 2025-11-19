@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x220/071025/ff6b61?text=Paarthfolio.+—+Paarth+Doshi" 
+  <img src="https://drive.google.com/file/d/1gwXyC1NucyQUbFmF5XR1wtz0lubgdjTf/view?usp=sharing" 
        alt="Paarthfolio Banner"
        width="100%" />
 </p>
