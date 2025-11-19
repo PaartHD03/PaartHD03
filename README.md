@@ -1,131 +1,317 @@
-<!-- ============================= -->
-<!-- 🚀 ANIMATED READ ME BANNER   -->
-<!-- ============================= -->
+<!--
+  PAARTH DOSHI — GitHub Profile README
+  Theme: Dark Neon Glass (A1) with Exact Palette (C4)
+  Layout: Website replica (collapsible sections D2)
+-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=28&duration=2800&pause=600&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Paarth+Doshi+👋;Data+Analyst+%F0%9F%93%88+%7C+Python+%7C+SQL+%7C+Power+BI;Always+learning+new+things!+🚀;Growth+is+my+default+mode+✨" />
+  <img src="https://via.placeholder.com/1200x220/071025/ff6b61?text=Paarthfolio.+—+Paarth+Doshi" alt="Paarthfolio Banner" width="100%" />
 </p>
 
----
-
-<h1 align="center"><b>🔥 PAARTH DOSHI — DATA ANALYST</b></h1>
+<h1 align="center">PAARTH DOSHI</h1>
 <p align="center"><i>If data can update every day, why shouldn’t I? Growth is my default mode.</i></p>
 
----
-
-<!-- ============================= -->
-<!-- 🌌 FUTURISTIC BANNER         -->
-<!-- ============================= -->
-
 <p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" width="90%" />
+  <a href="https://www.linkedin.com/in/paarth-doshi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/PaartHD03"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-ffa116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://drive.google.com/file/d/1Y_-EoNqk8gJUU1EIJtZ-qeAq7v_ZehIV/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-ff6b61?style=flat&logo=google-drive&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
 
-## 🌐 SOCIALS  
-<p align="center">
-  <a href="https://www.linkedin.com/in/paarth-doshi"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-  <a href="https://github.com/PaartHD03"><img src="https://skillicons.dev/icons?i=github"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=hackerrank"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=leetcode"></a>
+<details>
+<summary>
+  <img src="https://via.placeholder.com/1200x120/071025/ff6b61?text=Home+—+Hero" alt="Home Banner" width="100%" />
+</summary>
+
+<!-- HOME / HERO -->
+<div markdown="1">
+
+**👋 Hello, I’m Paarth Doshi** — a data-driven **Analyst & Engineer** passionate about transforming insights into impactful solutions.
+
+**Quick facts**
+- Location: Navi Mumbai, India  
+- Degree: B.Tech CSE (Business Systems), RAIT (2021–2025) — **CGPA: 8.4/10**  
+- Contact: paarthdoshi03@gmail.com
+
+**Badges / Skills**
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-2BB3E8?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-4E73C7?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
 </p>
 
+**Snapshot**
+<div>
+  <img align="right" src="https://via.placeholder.com/240x240/0f1724/e6eef8?text=Profile+Image" alt="profile" style="border-radius:12px; box-shadow:0 6px 20px rgba(255,107,97,0.12)"/>
+  <p><strong>Projects:</strong> +10</p>
+  <p><strong>Internships:</strong> 3</p>
+  <p><strong>Certifications:</strong> 5+</p>
+</div>
+
+**Quick links**
+- [View Projects (scroll down)](#projects)  
+- [Resume (PDF)](https://drive.google.com/file/d/1Y_-EoNqk8gJUU1EIJtZ-qeAq7v_ZehIV/view?usp=sharing)  
+- [ETLHive Internship Cert](https://drive.google.com/file/d/11Hj2ikMHtrPRaTVPdbVZ5pB5Ag8tLSRR/view)
+
+</div>
+</details>
+
 ---
 
-## ⚡ ABOUT ME  
-🎯 Aspiring **Data Analyst** skilled in Python, SQL, ML and BI tools  
-📊 Passionate about solving real-world problems with data  
-🧪 Building ML models, dashboards & smart automations  
-🚀 Exploring AI, cloud & full-stack data apps  
+<details>
+<summary>
+  <img src="https://via.placeholder.com/1200x120/071025/ff6b61?text=Experience" alt="Experience Banner" width="100%" />
+</summary>
+
+<!-- EXPERIENCE -->
+<div markdown="1">
+
+### Experience
+
+<div style="background:#0f1724;padding:14px;border-radius:12px;margin:8px 0;box-shadow:0 6px 24px rgba(255,107,97,0.06);">
+**Analyst Trainee (GenC)** — *Cognizant*  
+**May 2025 – Sep 2025 · Remote**  
+Started my professional journey with training in Java, SQL, SDLC, and Agile processes. Built foundational engineering & testing skills.
+
+**Skills:** Java · SQL · DSA · Selenium · Testing
+</div>
+
+<div style="background:#0f1724;padding:14px;border-radius:12px;margin:8px 0;box-shadow:0 6px 24px rgba(255,107,97,0.06);">
+**Intern — Systems IT** — *Mumbai Metro Rail Corporation (MMRCL)*  
+**Jan 2025 – May 2025 · On-site**  
+Worked on AI & systems integration projects that improve operational workflows.
+
+**Skills:** AI · Systems Integration · Python · IT Operations
+</div>
+
+<div style="background:#0f1724;padding:14px;border-radius:12px;margin:8px 0;box-shadow:0 6px 24px rgba(255,107,97,0.06);">
+**Data Scientist Intern** — *ETLHive*  
+**Nov 2023 – May 2024 · Hybrid**  
+Analyzed healthcare & loan datasets, built predictive models, and created Power BI dashboards.
+
+**Skills:** Python · Data Science · Power BI · Machine Learning
+</div>
+
+</div>
+</details>
 
 ---
 
-# ⚙️ TECH STACK — *Animated Icons*
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,js,react,nodejs,git,github,html,css,django,cpp,java,sklearn,tensorflow" /><br/>
-  <img src="https://skillicons.dev/icons?i=figma,powershell,mongodb,postgresql" />
+<details>
+<summary>
+  <img src="https://via.placeholder.com/1200x120/071025/ff6b61?text=Blog+%26+Updates" alt="Blog Banner" width="100%" />
+</summary>
+
+<!-- BLOG & UPDATES -->
+<div markdown="1">
+
+### Blog & Updates
+
+Below are featured posts and updates (static snapshot of your blog section):
+
+- **A Hackathon Journey to Remember** — *Jan 2025*  
+  Summary: Notes, learnings and outcomes from a team hackathon.
+
+- **Recruit CRM Video Project** — *Jan 2025*  
+  Summary: Short walkthrough of the Recruit CRM automation.
+
+- **Data Viz with Power BI** — *Dec 2024*  
+  Summary: Dashboard design & insights for a healthcare dataset.
+
+> _Tip_: Link actual blog posts or use GitHub Pages to host full posts and link them here later.
+
+</div>
+</details>
+
+---
+
+<details>
+<summary>
+  <img src="https://via.placeholder.com/1200x120/071025/ff6b61?text=Project+Videos" alt="Videos Banner" width="100%" />
+</summary>
+
+<!-- VIDEOS GALLERY -->
+<div markdown="1">
+
+### Project Videos
+
+<p>
+  <a href="https://www.youtube.com/watch?v=-EjZqjXgFj0" target="_blank">
+    <img src="https://img.youtube.com/vi/-EjZqjXgFj0/hqdefault.jpg" alt="Recruit CRM Project" width="320" style="border-radius:8px;box-shadow:0 8px 24px rgba(255,107,97,0.06)"/>
+  </a>
+  <!-- Add more thumbnails here -->
 </p>
 
----
-
-# 🧠 EXPERIENCE — *Neo Aesthetic Timeline*
-
+</div>
+</details>
 
 ---
 
-# 🎓 EDUCATION  
-🎓 **B.Tech CSE (Business Systems)** — RAIT (2021–2025)  
-📌 **CGPA:** 8.4 / 10  
+<details id="projects">
+<summary>
+  <img src="https://via.placeholder.com/1200x120/071025/ff6b61?text=Projects" alt="Projects Banner" width="100%" />
+</summary>
+
+<!-- PROJECTS -->
+<div markdown="1">
+
+### Featured Projects (replicated from your Projects page)
+
+> *Projects are linked directly to your GitHub repos. Click a card to open the repo.*
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Tech / Notes</th>
+      <th align="left">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>The Tailored</strong><br/><small>Responsive website UI/UX</small></td>
+      <td>HTML • Bootstrap</td>
+      <td><a href="https://github.com/PaartHD03/Tailored-Website" target="_blank">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>House Price Prediction</strong><br/><small>Regression model & feature engineering</small></td>
+      <td>Python • Scikit-Learn • SQL</td>
+      <td><a href="https://github.com/PaartHD03/House_Price_Prediction_Project" target="_blank">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Breast Cancer Analysis</strong><br/><small>EDA, model eval, visualization</small></td>
+      <td>Python • TensorFlow</td>
+      <td><a href="https://github.com/PaartHD03/Breast-Cancer-Analysis" target="_blank">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>MMRCL Blackbook</strong><br/><small>Final year black book (MMRCL internship)</small></td>
+      <td>Documentation</td>
+      <td><a href="https://github.com/PaartHD03/mmrcl-blackbook" target="_blank">Repo</a></td>
+    </tr>
+
+    <!-- More projects (auto-recreated) -->
+    <tr>
+      <td><strong>chatbot_llm</strong></td>
+      <td>Python • LLM</td>
+      <td><a href="https://github.com/PaartHD03/chatbot_llm" target="_blank">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>HealthCare_Project_SQL</strong></td>
+      <td>SQL • Dashboards</td>
+      <td><a href="https://github.com/PaartHD03/HealthCare_Project_SQL" target="_blank">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Tailored-Website</strong></td>
+      <td>HTML • CSS</td>
+      <td><a href="https://github.com/PaartHD03/Tailored-Website" target="_blank">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Many more (full list in your site)</strong></td>
+      <td>See below for full repo list</td>
+      <td><a href="https://github.com/PaartHD03?tab=repositories" target="_blank">All Repos</a></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+</details>
 
 ---
 
-# 🏆 CERTIFICATIONS  
-<p align="center">
-  <a href="https://drive.google.com/file/d/11Hj2ikMHtrPRaTVPdbVZ5pB5Ag8tLSRR/view">
-    <img src="https://drive.google.com/uc?export=view&id=11Hj2ikMHtrPRaTVPdbVZ5pB5Ag8tLSRR" width="200"/>
+<details>
+<summary>
+  <img src="https://via.placeholder.com/1200x120/071025/ff6b61?text=Certifications" alt="Certs Banner" width="100%" />
+</summary>
+
+<!-- CERTIFICATIONS -->
+<div markdown="1">
+
+### Certifications
+
+A selection of my certificates — click to open:
+
+<p>
+  <a href="https://drive.google.com/file/d/11Hj2ikMHtrPRaTVPdbVZ5pB5Ag8tLSRR/view" target="_blank">
+    <img src="https://via.placeholder.com/320x200/0f1724/e6eef8?text=Business+Analytics" alt="Business Analytics" style="border-radius:8px;margin-right:8px;"/>
   </a>
 
-  <a href="https://drive.google.com/file/d/1Y_-EoNqk8gJUU1EIJtZ-qeAq7v_ZehIV/view">
-    📄 <b>Resume (PDF)</b>
+  <a href="https://drive.google.com/file/d/1Y_-EoNqk8gJUU1EIJtZ-qeAq7v_ZehIV/view?usp=sharing" target="_blank">
+    <img src="https://via.placeholder.com/320x200/0f1724/e6eef8?text=Resume+PDF" alt="Resume" style="border-radius:8px;"/>
   </a>
-
-  <br/><br/>
-
-  <a href="https://drive.google.com/drive/folders/1RGAkVo1INcG6R23VUzytkk2vwdzZ_Qvv">📂 Folder 1</a> |
-  <a href="https://drive.google.com/drive/folders/1yGCe2GlQXVcYqJ7eu76T2Rb_LbUDBJNv">📂 Folder 2</a>
 </p>
 
----
+Additional certs (Power BI, Google Cloud micro-credentials, Alteryx, HackerRank SQL) are available in my Drive folders.
 
-# 💼 PROJECTS — *Animated Cards*
-
-## 🔹 House Price Prediction  
-> Regression model with feature engineering  
-**Tech:** Python • Scikit-Learn • SQL  
-🔗 **Code:** https://github.com/PaartHD03/House-Price-Prediction  
+</div>
+</details>
 
 ---
 
-## 🔹 Breast Cancer Analysis  
-> ML model for cancer diagnosis  
-**Tech:** Python • TensorFlow  
-🔗 **Code:** https://github.com/PaartHD03/Breast-Cancer-Analysis
+<details>
+<summary>
+  <img src="https://via.placeholder.com/1200x120/071025/ff6b61?text=Contact" alt="Contact Banner" width="100%" />
+</summary>
+
+<!-- CONTACT -->
+<div markdown="1">
+
+### Get in Touch
+
+I’m open to new projects, collaborations, and roles. Let’s connect!
+
+- **Email:** paarthdoshi03@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/paarth-doshi/  
+- **GitHub:** https://github.com/PaartHD03
+
+**Message template (copy & paste into email):**
+
+Subject: Opportunity / Project — Paarth
+
+Hi Paarth,
+
+I’m reaching out about...
+
+Best,
+[Your name]
+
+
+</div>
+</details>
 
 ---
 
-# 📊 GITHUB ANALYTICS — *Animated Stats*
+<details>
+<summary>
+  <img src="https://via.placeholder.com/1200x80/071025/ff6b61?text=Footer" alt="Footer Banner" width="100%" />
+</summary>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PaartHD03&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaartHD03&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PaartHD03&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-# 🎉 FUN FACTS  
-✨ I learn something new every day  
-💡 I love clean UI + smart automation  
-🧩 I break problems till they make sense  
-🚀 Consistency > Motivation  
+<!-- FOOTER -->
+<div markdown="1" align="center">
+  <p>© 2025 Paarth Parag Doshi. Built with passion and precision.</p>
+  <p><small>Colors: bg `#071025` • accent `#ff6b61` • cards `#0f1724`</small></p>
+</div>
+</details>
 
 ---
 
-# 👀 PROFILE VISITOR COUNT  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PaartHD03&color=brightgreen&style=flat-square" />
-</p>
+## Notes & next steps
+
+- If you want, I can:
+  - Replace the placeholder banner images with **real PNG/SVG banners** (higher-res, custom neon text) and upload them to the repo for pixel-perfect fidelity.
+  - Generate alternate mobile-optimized banners.
+  - Export this README into a `index.html` single-page that will be pixel-perfect (but note: GitHub README is static).
+- Want me to **replace banners with custom PNGs** I generate and commit-ready ZIP that you can upload? Say **“Replace banners”** and I’ll produce them (and the updated README with file paths).
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" width="90%" />
-</p>
+If everything looks good, say **“finalize”** and I’ll give you:
+- A zipped README + optional banners packaging plan  
+- Or directly paste-ready content (already above) — you can now paste into your repo.
 
-<p align="center"><b>⭐ If you like this README, consider starring my repositories!</b></p>
-
+Would you like me to **generate real PNG banner images** (commit-ready) next?
