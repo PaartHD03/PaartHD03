@@ -1,96 +1,90 @@
-<!-- CYBERPUNK TITLE -->
-<h1 align="center">⚡ PAARTH DOSHI — SYSTEM ONLINE ⚡</h1>
-<p align="center"><em>"If data can update every day, why shouldn’t I? Growth is my default mode."</em></p>
+<h1 align="center">👋 Hi, I'm Paarth Doshi</h1>
+<p align="center"><em>If data can update every day, why shouldn’t I? Growth is my default mode.</em></p>
 
 ---
 
-## 🟣 CYBER IDENTITY
-<p>
-Data Analyst • Python Developer • Automation Engineer<br>
-Turning business chaos → meaningful insights<br>
-Building models, dashboards & automation workflows<br>
-Obsessed with neon, glitch & clean code
+# 1️⃣ ABOUT ME
+Short intro: Aspiring Data Analyst / Full-Stack builder / etc.
+
+---
+
+# 2️⃣ PORTFOLIO
+🔗 Live portfolio: [Your Netlify link here](https://your-portfolio.netlify.app)
+
+---
+
+# 3️⃣ SOCIAL BADGES
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-handle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-handle)
+
+**GitHub stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+---
+
+# 4️⃣ FEATURED PROJECTS
+### Project A — *Short one-line description*  
+Tech: React, Node, SQL  
+🔗 [Live Demo](your-live-link) • [Source](https://github.com/yourusername/project-a)
+
+### Project B — *Short one-line description*  
+Tech: Python, PowerBI  
+🔗 [Source](https://github.com/yourusername/project-b)
+
+---
+
+# 5️⃣ SKILLS
+**Languages:** Python • SQL • JavaScript  
+**Data & BI:** Power BI • Tableau • Snowflake  
+**Dev:** React • Node • Django • Git
+
+(Use devicon icons if you want images; example below.)
+
+---
+
+# 6️⃣ WORK EXPERIENCE (Timeline)
+- **2025** — Intern @ NeuIQ — Built dashboards & internal tools.  
+- **2024** — Data Scientist Intern @ ETLHive — Healthcare & loan analytics projects.  
+- **2023** — Projects & competitions — Web apps, ML models, etc.
+
+---
+
+# 7️⃣ EDUCATION
+**B.Tech in CS (Business Systems)** — Ramrao Adik Institute of Technology (2021–2025)  
+CGPA: 8.4/10
+
+---
+
+# 8️⃣ ACHIEVEMENTS & CERTIFICATES
+Below are thumbnails that link to the original Google Drive certificates.
+
+<p align="left">
+  <!-- Example: Certificate as clickable thumbnail -->
+  <a href="https://drive.google.com/file/d/1Y_-EoNqk8gJUU1EIJtZ-qeAq7v_ZehIV/view?usp=sharing" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=1Y_-EoNqk8gJUU1EIJtZ-qeAq7v_ZehIV" width="160" alt="SQL Basic Certificate" style="margin-right:8px"/>
+  </a>
+
+  <a href="https://drive.google.com/file/d/11Hj2ikMHtrPRaTVPdbVZ5pB5Ag8tLSRR/view?usp=sharing" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=11Hj2ikMHtrPRaTVPdbVZ5pB5Ag8tLSRR" width="160" alt="Python Certificate" style="margin-right:8px"/>
+  </a>
+
+  <!-- If a certificate is PDF and you don't have a thumbnail, link directly -->
+  <a href="https://drive.google.com/file/d/1Umv1NJ1d29C5rXzuBhMW4KM58fjTmam6/view?usp=sharing" target="_blank">
+    📄 ETLHive Internship Certificate
+  </a>
 </p>
 
----
-
-## 🔥 NEON SKILLS STACK
-
-### 🧠 Programming  
-Python • SQL • Java • HTML • CSS • JavaScript
-
-### 📊 Data & Analytics  
-Pandas • NumPy • Power BI • Tableau • Machine Learning (Basics)
-
-### ⚙ Tools  
-Git • GitHub • Jupyter • VS Code • Eclipse • Jira • Selenium • TestNG
+> Tip: replace each `id=` value above with the correct FILE_ID from your Drive links.
 
 ---
 
-## 🛠️ FEATURED PROJECTS (CYBERPUNK CARDS)
-
-### 🔹 House Price Prediction — Machine Learning  
-Regression model • Feature engineering • EDA  
-🔗 Repo: *Coming Soon*
+# 9️⃣ FUN FACTS
+- Growth is my default mode 🚀  
+- I enjoy building end-to-end data products
 
 ---
 
-### 🔹 Breast Cancer Classification — ML  
-Classification model • Metrics • Visualization  
-🔗 Repo: *Coming Soon*
-
----
-
-### 🔹 College Admission Automation — Selenium + TestNG  
-Automated admission form • DDF • XML input  
-🔗 Repo: *Coming Soon*
-
----
-
-## 🟣 INSTAGRAM ANALYTICS
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Followers-1.2k-blueviolet?style=for-the-badge&logo=instagram" />
-  <img src="https://img.shields.io/badge/Posts-180-ff55bb?style=for-the-badge&logo=instagram" />
-  <img src="https://img.shields.io/badge/Engagement-7.4%25-purple?style=for-the-badge&logo=instagram" />
-</p>
-
----
-
-## 🚀 QUICK LINKS
-
-<p align="center">
-  <a href="https://github.com/PaartHD03">
-    <img src="https://img.shields.io/badge/GitHub_Profile-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/paarth-doshi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://paarthdoshiportfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-ff2980?style=for-the-badge&logo=instagram" />
-  </a>
-</p>
-
----
-
-## 🌌 CONSOLE BOOT MESSAGE
-
-```
-> Initializing Paarth.exe …
-> Loading skill modules …
-> Python ████████ 100%
-> SQL    ████████ 100%
-> ML     ████░░░░ 50%
-
-STATUS: OPERATIONAL
-ERROR 404: LIMITS NOT FOUND
-```
-
----
-
-## 🎧 CURRENT THEME
-Neon rain • Glitch energy • Lo-fi while debugging life.
-
+# 🔟 VISITOR COUNT
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername)
