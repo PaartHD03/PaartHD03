@@ -1,24 +1,16 @@
-<!-- CYBERPUNK BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PaartHD03/PaartHD03/main/banner.png" width="100%" />
-</p>
-
+<!-- CYBERPUNK TITLE -->
 <h1 align="center">⚡ PAARTH DOSHI — SYSTEM ONLINE ⚡</h1>
-
-<p align="center">
-  <em>"If data can update every day, why shouldn’t I? Growth is my default mode."</em>
-</p>
+<p align="center"><em>"If data can update every day, why shouldn’t I? Growth is my default mode."</em></p>
 
 ---
 
 ## 🟣 CYBER IDENTITY
-
-```
-Data Analyst | Python Developer | Automation Engineer
-Turning business chaos → meaningful insights
-Building models, dashboards & automation workflows
+<p>
+Data Analyst • Python Developer • Automation Engineer<br>
+Turning business chaos → meaningful insights<br>
+Building models, dashboards & automation workflows<br>
 Obsessed with neon, glitch & clean code
-```
+</p>
 
 ---
 
@@ -55,7 +47,7 @@ Automated admission form • DDF • XML input
 
 ---
 
-## 🟣 INSTAGRAM ANALYTICS (Instead of GitHub Stats)
+## 🟣 INSTAGRAM ANALYTICS
 
 <p align="center">
   <img src="https://img.shields.io/badge/Followers-1.2k-blueviolet?style=for-the-badge&logo=instagram" />
@@ -69,7 +61,7 @@ Automated admission form • DDF • XML input
 
 <p align="center">
   <a href="https://github.com/PaartHD03">
-    <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub_Profile-000?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/paarth-doshi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
@@ -99,11 +91,6 @@ ERROR 404: LIMITS NOT FOUND
 
 ---
 
-## 🎧 CURRENT THEME  
+## 🎧 CURRENT THEME
 Neon rain • Glitch energy • Lo-fi while debugging life.
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Access_Granted-00FFEA?style=for-the-badge&logo=terminal" />
-</p>
